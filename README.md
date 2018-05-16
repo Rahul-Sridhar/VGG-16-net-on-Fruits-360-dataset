@@ -15,4 +15,6 @@
 
 * The Algorithm gives a training accuracy of 100% and validation accuracy of 100%. The confusion matrix makes it clear with non-zero entry only in leading diagonal.  
 * With no hand engineering the features and minimal hyperparameter tuning the algorithm seems to give excellent results. This suggests how good transfer learning is and can be used as it has state of the art features extracted from training on Imagenet dataset(millions of images).
+
+
 (NOTE: Only included few classes due to limited computational resources available.)
